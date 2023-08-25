@@ -17,7 +17,7 @@ test:  # test images (optional)
  - test
 
 # number of classes
-nc: 3
+nc: 2
 
 # class names
-names: ["unpainted", "painted"]
+# names: ["unpainted", "painted"]
